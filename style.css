@@ -41,11 +41,8 @@ figcaption {
   text-align: center;
 }
 
-#details {
-  background: grey;
-}
-
 div {
+  background: grey;
   width: 25%;
   justify-content: center
 }
