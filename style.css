@@ -17,10 +17,10 @@ img {
 nav {
   justify-content: center;
   display: flex;
-  background: pink;
 }
 
 nav a {
+  background: grey;
   padding: 10px;
 }
 
