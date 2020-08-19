@@ -17,10 +17,9 @@ img {
 a {
 
   justify-content: center;
+  display: flex;
   padding: 10px;
   background: pink;
-  display: flex;
-  float: left;
 }
 
 figcaption {
