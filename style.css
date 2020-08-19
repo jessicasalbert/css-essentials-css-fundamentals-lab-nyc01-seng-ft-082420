@@ -19,7 +19,7 @@ a {
   justify-content: center;
   padding: 10px;
   background: pink;
-  display: block;
+  display: flex;
   float: left;
 }
 
