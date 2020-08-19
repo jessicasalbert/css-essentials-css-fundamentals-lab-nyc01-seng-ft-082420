@@ -15,7 +15,6 @@ img {
 }
 
 nav {
-
   justify-content: center;
   display: flex;
   padding: 10px;
@@ -47,7 +46,3 @@ div {
   justify-content: center
 }
 
-div a {
-  background: grey;
-  padding: 0px;
-}
