@@ -39,10 +39,11 @@ figcaption {
   display: block;
   float: left;
   text-align: center;
+    background: grey;
 }
 
 div {
-  background: grey;
+
   width: 25%;
   justify-content: center
 }
