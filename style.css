@@ -21,6 +21,10 @@ nav {
   background: pink;
 }
 
+nav a {
+  padding: 10px;
+}
+
 figcaption {
   font-size: 12px;
   text-align: center;
