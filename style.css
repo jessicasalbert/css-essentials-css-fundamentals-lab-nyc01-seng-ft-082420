@@ -34,7 +34,7 @@ figcaption {
   display: block;
 }
 
-#details {
+#details div{
   display: block;
   float: left;
 }
@@ -42,7 +42,7 @@ figcaption {
 div {
   background: grey;
   display: block;
-  float:left;
+  float: left;
   width: 25%;
   justify-content: center
 }
