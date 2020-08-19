@@ -41,8 +41,6 @@ figcaption {
 
 div {
   background: grey;
-  display: block;
-  float: left;
   width: 25%;
   justify-content: center
 }
