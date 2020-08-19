@@ -6,6 +6,8 @@ body {
 
 h1 {
   text-align: center;
+  display: block;
+  float: left;
 }
 
 img {
